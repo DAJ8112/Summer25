@@ -1,5 +1,5 @@
 # Summer25
-Daily logs for my Summer Arc
+Daily logs for things I do in Summer. Main focus is on Consistency.
 
 21/5/25 : 
   1. Revised SQL
