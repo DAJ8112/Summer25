@@ -9,3 +9,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 23-05-2025| 1. Started with Hadoop<br>&nbsp;&nbsp;&nbsp;&nbsp;- Ecosystem<br>&nbsp;&nbsp;&nbsp;&nbsp;- Components<br> |
 | 24-05-2025| 1. Started understanding MCP <br>&nbsp;&nbsp;&nbsp;&nbsp;- read few docs<br>&nbsp;&nbsp;&nbsp;&nbsp;- Watched a few videos<br> 2. Dived more into HDFS<br>3. Started DSA again :) (started with arrays) |
 | 25-05-2025| 1. Continued HDFS<br> |
+| 26-05-2025| 1. Continued MCP a bit<br> 2. Created GCP account to start experimentation of Hadoop |
