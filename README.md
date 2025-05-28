@@ -10,3 +10,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 24-05-2025| 1. Started understanding MCP <br>&nbsp;&nbsp;&nbsp;&nbsp;- read few docs<br>&nbsp;&nbsp;&nbsp;&nbsp;- Watched a few videos<br> 2. Dived more into HDFS<br>3. Started DSA again :) (started with arrays) |
 | 25-05-2025| 1. Continued HDFS<br> |
 | 26-05-2025| 1. Continued MCP a bit<br> 2. Created GCP account to start experimentation of Hadoop |
+| 27-05-2025| 1. Practiced DSA<br> 2. Cold emailed a lot of people (with html emails !) <br> 3. Researched about Computer Vision a bit in the field of Autonomous Systems & Robotics |
