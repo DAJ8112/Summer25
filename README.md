@@ -12,3 +12,7 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 26-05-2025| 1. Continued MCP a bit<br> 2. Created GCP account to start experimentation of Hadoop |
 | 27-05-2025| 1. Practiced DSA<br> 2. Cold emailed a lot of people (with html emails !) <br> 3. Researched about Computer Vision a bit in the field of Autonomous Systems & Robotics |
 | 28-05-2025| 1. As Summer internship season is starting soon, Just applied and reached out to lot of people today. (Still no luck, and ghosts from recruiters :)|
+| 29-05-2025| 1. Applied for internships, Reached out to people|
+| 30-05-2025| 1. Practiced NLP (for an interview >_< )|
+| 31-05-2025| 1. Revised theory for ML, Transformers & Attention|
+| 01-06-2025| 1. Still practicing those interview questions ... |
