@@ -16,3 +16,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 30-05-2025| 1. Practiced NLP (for an interview >_< )|
 | 31-05-2025| 1. Revised theory for ML, Transformers & Attention|
 | 01-06-2025| 1. Still practicing those interview questions ... |
+| 02-06-2025| 1. Final day prep for interview. (T-1) |
