@@ -17,3 +17,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 31-05-2025| 1. Revised theory for ML, Transformers & Attention|
 | 01-06-2025| 1. Still practicing those interview questions ... |
 | 02-06-2025| 1. Final day prep for interview. (T-1) |
+| 03-06-2025| 1. Done with the first interview, prep for next interview started |
