@@ -25,3 +25,5 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 08-06-2025| 1. Back with Hadoop |
 | 09-06-2025| 1. Got a reject :) idk at this point what do they want, But we keep going !! <br> 2. Created a basic hadoop HDFS cluster on GCP<br> 3. Understood more about Failure & handling, Read, write in Hadoop HDFS|
 | 10-06-2025| 1. Started DSA (Arrays) Revision in Python<br> 2. Started with Karpathy's micrograd<br> 3. Brainstormed ideas about an upcoming project|
+| 11-06-2025| 1. Revised LinkedLists<br> 2. Prepared for an interview|
+| 12-06-2025| 1. Gave an interview<br> 2. Revised HashTables- sets & Maps|
