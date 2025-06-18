@@ -31,4 +31,5 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 14-06-2025| 1. Revised Binary Search and Recursion|
 | 15-06-2025| 1. Worked on wallpaper extender project<br> 2. Started trying HDFS, MapReduce on GCP|
 | 16-06-2025| 1. Practiced MapReduce on GCP DataProc Hadoop Cluster|
+| 17-06-2025| 1. Started Project CWD<br>2. Took a look at MCP, and RAG stuff |
 
