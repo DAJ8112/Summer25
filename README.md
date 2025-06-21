@@ -28,4 +28,11 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 11-06-2025| 1. Revised LinkedLists<br> 2. Prepared for an interview|
 | 12-06-2025| 1. Gave an interview<br> 2. Revised HashTables- sets & Maps<br> 3. Done with concepts and few practice of HDFS and have a pretty good idea behind it, next up MapReduce|
 | 13-06-2025| 1. Studied theoritical concepts of MapReduce<br> 2. Revised Stacks & Queues|
+| 14-06-2025| 1. Revised Binary Search and Recursion|
+| 15-06-2025| 1. Worked on wallpaper extender project<br> 2. Started trying HDFS, MapReduce on GCP|
+| 16-06-2025| 1. Practiced MapReduce on GCP DataProc Hadoop Cluster|
+| 17-06-2025| 1. Started Project CWD<br>2. Took a look at MCP, and RAG stuff |
+| 18-06-2025| 1. Prepared for an interview, and gave the interview|
+| 19-06-2025| 1. Revised Binary Trees, BSTs<br> 2. Continued MapReduce Practice on GCP Dataproc, I think that should be enough for MR now.|
+| 20-06-2025| 1. Read a book on Ai Engineering|
 
