@@ -36,3 +36,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 19-06-2025| 1. Revised Binary Trees, BSTs<br> 2. Continued MapReduce Practice on GCP Dataproc, I think that should be enough for MR now.|
 | 20-06-2025| 1. Read a book on Ai Engineering|
 | 21-06-2025| 1. Updated Porfolio website<br> 2. Revised Binary Trees & BSTs<br>|
+| 22-06-2025| 1. continued to code CWD<br> 2. Revised Heaps and Priority Queues<br> 3. revised Map reduce a bit, (need to quickly finish Hadoop so I can start with PySpark)|
