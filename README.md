@@ -39,3 +39,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 22-06-2025| 1. continued to code CWD<br> 2. Revised Heaps and Priority Queues<br> 3. revised Map reduce a bit, (need to quickly finish Hadoop so I can start with PySpark)|
 | 23-06-2025| 1. Revised Sorting Techniques<br> 2. Started YARN<br> 3. Got an INTERNSIP OFFER !! (We're so back) |
 | 24-06-2025| 1. Continued YARN Concepts|
+| 25-06-2025| 1. Continued reading AI Engineering|
