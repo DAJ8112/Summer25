@@ -40,3 +40,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 23-06-2025| 1. Revised Sorting Techniques<br> 2. Started YARN<br> 3. Got an INTERNSIP OFFER !! (We're so back) |
 | 24-06-2025| 1. Continued YARN Concepts|
 | 25-06-2025| 1. Continued reading AI Engineering|
+| 26-06-2025| 1. Read the book more|
