@@ -44,3 +44,4 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 27-06-2025| 1. Ai Engineering Book (2nd chapter)<rb> 2. MCP server dive|
 | 28-06-2025| 1. Ai Engineering Book|
 | 29-06-2025| 1. Got a domain for portfolio and changed the address of website|
+| 30-06-2025| 1. Coded cwd a bit.<br> 2. YARN theory (done with Hadoop will now next move to Spark !)|
