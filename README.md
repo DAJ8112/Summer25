@@ -48,3 +48,19 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 01-07-2025| 1. Revised Graphs<br> 2. Read a bit of Ai Engineering.|
 | 02-07-2025| 1. Continued reading Ai Engineering|
 | 03-07-2025| 1. Read a bit Ai Engineering<br> 2. Added SSL to domain/portfolio website|
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/DAJ8112/Summer25/tree/master/1019-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/DAJ8112/Summer25/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/DAJ8112/Summer25/tree/master/1019-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
