@@ -45,4 +45,6 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 28-06-2025| 1. Ai Engineering Book|
 | 29-06-2025| 1. Got a domain for portfolio and changed the address of website|
 | 30-06-2025| 1. Coded cwd a bit.<br> 2. YARN theory (done with Hadoop will now next move to Spark !)|
-| 31-06-2025| 1. Revised Graphs<br> 2. Read a bit of Ai Engineering.|
+| 01-07-2025| 1. Revised Graphs<br> 2. Read a bit of Ai Engineering.|
+| 02-07-2025| 1. Continued reading Ai Engineering|
+| 03-07-2025| 1. Read a bit Ai Engineering<br> 2. Added SSL to domain/portfolio website|
