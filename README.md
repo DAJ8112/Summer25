@@ -48,6 +48,8 @@ Daily logs for things I do in Summer. Main focus is on Consistency.
 | 01-07-2025| 1. Revised Graphs<br> 2. Read a bit of Ai Engineering.|
 | 02-07-2025| 1. Continued reading Ai Engineering|
 | 03-07-2025| 1. Read a bit Ai Engineering<br> 2. Added SSL to domain/portfolio website|
+| 04-07-2025| 1. 2 pointer algorithms, and Sliding window approaches<br> 2. syntethic data builder using SDV and MCP.|
+| 05-07-2025| 1. Solved 2 leetcode problems<br> 2. Bit of research in Computer Vision & Robotics<br> 3. Dug up a bit on Raspberry Pi (I gotta get those things )|
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
